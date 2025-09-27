@@ -1,3 +1,5 @@
+ISTRUZIONI
+
 Creare due classi: Carta e Mazzo
 
 Per la classe Carta:
